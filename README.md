@@ -2,7 +2,7 @@ Name of group:   Project group 1
 Team Members:  Susan Owoeye
 		  	 Damilola Olufisayo
 		           Bolurin Falola
-		          Kayode Folorunsho
+		          Kayode Folorunso
 		          Ofomiyuaju Elizabeth
 Assignment: 
 	Create a branch and name it.
