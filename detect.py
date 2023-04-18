@@ -18,11 +18,11 @@ for image in all_images:
 
      for (x, y, w, h) in faces:
 # To draw rectangle around different faces
-         final_img = cv2.rectangle(img, (x,y), (x+w,y+h), (0, 280, 0), 3)
+         final_img = cv2.rectangle(img, (x,y), (x+w,y+h), (0, 280, 0), 2)
 
 #Show the result
      cv2.imshow("Face Detection", final_img)
-     cv2.waitKey(2000)
+     cv2.waitKey(1500)
 
 # Close the window
      cv2.destroyAllWindows
